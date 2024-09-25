@@ -1,0 +1,29 @@
+{
+  "name": "test-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test",
+    "start": "",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitiz-jha/test-nodejs-1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "kshitiz-jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitiz-jha/test-nodejs-1/issues"
+  },
+  "homepage": "https://github.com/kshitiz-jha/test-nodejs-1#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
